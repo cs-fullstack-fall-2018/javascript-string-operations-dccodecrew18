@@ -1,7 +1,7 @@
 # JavaScript-String-Operations-HW
 
 Look up the follwoing JavaScript String operations. Write in ONE sentence after EACH question about what the function is used for when working Strings in JavaScrpt.
-
+Website : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf
 ```
 
 String.prototype.indexOf()
